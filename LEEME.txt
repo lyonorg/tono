@@ -1,0 +1,14 @@
+TONO Y GRADOS 3.0 — cómo publicarla (sin tokens ni programas)
+
+1. Entra a github.com e inicia sesión.
+2. Botón "+" (arriba a la derecha) → "New repository".
+   Nombre: tono   ·   Public   ·   Create repository.
+3. En el repo vacío, haz clic en "uploading an existing file".
+4. Arrastra TODOS los archivos de esta carpeta (menos este LEEME si quieres)
+   y pulsa "Commit changes".
+5. Settings → Pages → Branch: main, carpeta / (root) → Save.
+6. Espera 1–2 minutos. Tu app queda en:  https://TU-USUARIO.github.io/tono/
+7. En el iPhone: abre ese link en Safari → Compartir → "Agregar a pantalla de inicio".
+   Después de la primera vez funciona sin internet.
+
+Para actualizar: en el repo, "Add file" → "Upload files" y arrastra los archivos nuevos.
